@@ -8,6 +8,12 @@ https://www.youtube.com/watch?v=cdIPKmoPOs0&list=PLzrVYRai0riQaxOoC14hQv9h9Hga7-
 
 pass wifi: qwertyuiop123
 
+Nguyễn Văn Phố
+fb.com/vanphoUEL
+github.com/vanpho93
+vanpho01@gmail.com
+01694472176
+
 nodejs
 vscode
 git scm
