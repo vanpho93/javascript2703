@@ -6,6 +6,8 @@ https://www.youtube.com/watch?v=AOowjW6_kco
 Cài đặt React Native MacOS
 https://www.youtube.com/watch?v=cdIPKmoPOs0&list=PLzrVYRai0riQaxOoC14hQv9h9Hga7-t7D
 
+https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
 pass wifi: qwertyuiop123
 
 Nguyễn Văn Phố
